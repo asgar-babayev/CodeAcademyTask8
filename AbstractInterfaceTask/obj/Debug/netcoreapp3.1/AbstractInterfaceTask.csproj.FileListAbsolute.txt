@@ -1,0 +1,14 @@
+C:\Users\asger\Desktop\Tasks\AbstractInterfaceTask\AbstractInterfaceTask\bin\Debug\netcoreapp3.1\AbstractInterfaceTask.exe
+C:\Users\asger\Desktop\Tasks\AbstractInterfaceTask\AbstractInterfaceTask\bin\Debug\netcoreapp3.1\AbstractInterfaceTask.deps.json
+C:\Users\asger\Desktop\Tasks\AbstractInterfaceTask\AbstractInterfaceTask\bin\Debug\netcoreapp3.1\AbstractInterfaceTask.runtimeconfig.json
+C:\Users\asger\Desktop\Tasks\AbstractInterfaceTask\AbstractInterfaceTask\bin\Debug\netcoreapp3.1\AbstractInterfaceTask.runtimeconfig.dev.json
+C:\Users\asger\Desktop\Tasks\AbstractInterfaceTask\AbstractInterfaceTask\bin\Debug\netcoreapp3.1\AbstractInterfaceTask.dll
+C:\Users\asger\Desktop\Tasks\AbstractInterfaceTask\AbstractInterfaceTask\bin\Debug\netcoreapp3.1\AbstractInterfaceTask.pdb
+C:\Users\asger\Desktop\Tasks\AbstractInterfaceTask\AbstractInterfaceTask\obj\Debug\netcoreapp3.1\AbstractInterfaceTask.csproj.AssemblyReference.cache
+C:\Users\asger\Desktop\Tasks\AbstractInterfaceTask\AbstractInterfaceTask\obj\Debug\netcoreapp3.1\AbstractInterfaceTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asger\Desktop\Tasks\AbstractInterfaceTask\AbstractInterfaceTask\obj\Debug\netcoreapp3.1\AbstractInterfaceTask.AssemblyInfoInputs.cache
+C:\Users\asger\Desktop\Tasks\AbstractInterfaceTask\AbstractInterfaceTask\obj\Debug\netcoreapp3.1\AbstractInterfaceTask.AssemblyInfo.cs
+C:\Users\asger\Desktop\Tasks\AbstractInterfaceTask\AbstractInterfaceTask\obj\Debug\netcoreapp3.1\AbstractInterfaceTask.csproj.CoreCompileInputs.cache
+C:\Users\asger\Desktop\Tasks\AbstractInterfaceTask\AbstractInterfaceTask\obj\Debug\netcoreapp3.1\AbstractInterfaceTask.dll
+C:\Users\asger\Desktop\Tasks\AbstractInterfaceTask\AbstractInterfaceTask\obj\Debug\netcoreapp3.1\AbstractInterfaceTask.pdb
+C:\Users\asger\Desktop\Tasks\AbstractInterfaceTask\AbstractInterfaceTask\obj\Debug\netcoreapp3.1\AbstractInterfaceTask.genruntimeconfig.cache
