@@ -6,6 +6,6 @@ namespace AbstractInterfaceTask.Models
 {
     abstract class Figure
     {
-        public abstract int CalcArea();
+        public abstract double CalcArea();
     }
 }

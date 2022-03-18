@@ -6,13 +6,13 @@ namespace AbstractInterfaceTask.Models
 {
     class Square : Figure
     {
-        public int Side { get; set; }
-        public Square(int side)
+        public double Side { get; set; }
+        public Square(double side)
         {
             Side = side;
         }
 
-        public override int CalcArea()
+        public override double CalcArea()
         {
             return Side * Side;
         }
