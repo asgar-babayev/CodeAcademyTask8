@@ -45,6 +45,7 @@ namespace AbstractInterfaceTask
 
         }
 
+
         //Square method
         static void SquareValue(ref double side)
         {
