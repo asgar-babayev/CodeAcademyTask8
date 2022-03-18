@@ -14,7 +14,7 @@ namespace AbstractInterfaceTask.Models
 
         public override double CalcArea()
         {
-            return Side * Side;
+            return Math.Round(Side * Side, 3);
         }
     }
 }

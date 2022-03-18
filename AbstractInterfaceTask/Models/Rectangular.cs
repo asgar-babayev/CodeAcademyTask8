@@ -16,7 +16,7 @@ namespace AbstractInterfaceTask.Models
 
         public override double CalcArea()
         {
-            return Width * Length;
+            return Math.Round(Width * Length, 3);
         }
     }
 }

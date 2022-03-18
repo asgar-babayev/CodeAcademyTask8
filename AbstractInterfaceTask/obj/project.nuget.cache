@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AKkwLgUN/czLMf+9Ulmmmcsnrtkt6hRzRlBCAEcAWev95AiOiys/C8C6UlH5U27BlRX+F2gCmWaylUG+Ktollg==",
+  "dgSpecHash": "HOiWNF5zVOTetZAL77F0PDj3EaaBJB/gAOwpzpq+0swQd/PeN9rkKPMU5YqeARfGBWLKQb3zs8UyEMShVG8o+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asger\\Desktop\\Tasks\\AbstractInterfaceTask\\AbstractInterfaceTask\\AbstractInterfaceTask.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\asger\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\tu7609td3\\Desktop\\CodeAcademyTask8\\AbstractInterfaceTask\\AbstractInterfaceTask.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
