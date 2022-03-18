@@ -12,3 +12,17 @@ C:\Users\asger\Desktop\Tasks\AbstractInterfaceTask\AbstractInterfaceTask\obj\Deb
 C:\Users\asger\Desktop\Tasks\AbstractInterfaceTask\AbstractInterfaceTask\obj\Debug\netcoreapp3.1\AbstractInterfaceTask.dll
 C:\Users\asger\Desktop\Tasks\AbstractInterfaceTask\AbstractInterfaceTask\obj\Debug\netcoreapp3.1\AbstractInterfaceTask.pdb
 C:\Users\asger\Desktop\Tasks\AbstractInterfaceTask\AbstractInterfaceTask\obj\Debug\netcoreapp3.1\AbstractInterfaceTask.genruntimeconfig.cache
+C:\Users\tu7609td3\Desktop\CodeAcademyTask8\AbstractInterfaceTask\bin\Debug\netcoreapp3.1\AbstractInterfaceTask.exe
+C:\Users\tu7609td3\Desktop\CodeAcademyTask8\AbstractInterfaceTask\bin\Debug\netcoreapp3.1\AbstractInterfaceTask.deps.json
+C:\Users\tu7609td3\Desktop\CodeAcademyTask8\AbstractInterfaceTask\bin\Debug\netcoreapp3.1\AbstractInterfaceTask.runtimeconfig.json
+C:\Users\tu7609td3\Desktop\CodeAcademyTask8\AbstractInterfaceTask\bin\Debug\netcoreapp3.1\AbstractInterfaceTask.runtimeconfig.dev.json
+C:\Users\tu7609td3\Desktop\CodeAcademyTask8\AbstractInterfaceTask\bin\Debug\netcoreapp3.1\AbstractInterfaceTask.dll
+C:\Users\tu7609td3\Desktop\CodeAcademyTask8\AbstractInterfaceTask\bin\Debug\netcoreapp3.1\AbstractInterfaceTask.pdb
+C:\Users\tu7609td3\Desktop\CodeAcademyTask8\AbstractInterfaceTask\obj\Debug\netcoreapp3.1\AbstractInterfaceTask.csproj.AssemblyReference.cache
+C:\Users\tu7609td3\Desktop\CodeAcademyTask8\AbstractInterfaceTask\obj\Debug\netcoreapp3.1\AbstractInterfaceTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7609td3\Desktop\CodeAcademyTask8\AbstractInterfaceTask\obj\Debug\netcoreapp3.1\AbstractInterfaceTask.AssemblyInfoInputs.cache
+C:\Users\tu7609td3\Desktop\CodeAcademyTask8\AbstractInterfaceTask\obj\Debug\netcoreapp3.1\AbstractInterfaceTask.AssemblyInfo.cs
+C:\Users\tu7609td3\Desktop\CodeAcademyTask8\AbstractInterfaceTask\obj\Debug\netcoreapp3.1\AbstractInterfaceTask.csproj.CoreCompileInputs.cache
+C:\Users\tu7609td3\Desktop\CodeAcademyTask8\AbstractInterfaceTask\obj\Debug\netcoreapp3.1\AbstractInterfaceTask.dll
+C:\Users\tu7609td3\Desktop\CodeAcademyTask8\AbstractInterfaceTask\obj\Debug\netcoreapp3.1\AbstractInterfaceTask.pdb
+C:\Users\tu7609td3\Desktop\CodeAcademyTask8\AbstractInterfaceTask\obj\Debug\netcoreapp3.1\AbstractInterfaceTask.genruntimeconfig.cache

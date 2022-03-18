@@ -6,8 +6,36 @@ namespace AbstractInterfaceTask.Models
 {
     class Rectangular : Figure
     {
-        public double Width { get; set; }
-        public double Length { get; set; }
+        private double _width;
+        private double _length;
+        public double Width
+        {
+            get
+            {
+                return _width;
+            }
+            set
+            {
+                if (value > 0)
+                {
+                    _width = value;
+                }
+            }
+        }
+        public double Length
+        {
+            get
+            {
+                return _length;
+            }
+            set
+            {
+                if (value > 0)
+                {
+                    _length = value;
+                }
+            }
+        }
         public Rectangular(double width, double length)
         {
             Width = width;
